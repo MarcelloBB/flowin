@@ -25,7 +25,7 @@ Flowin automates the Git Flow strategy by executing the underlying Git commands 
 
 You can install it by cloning the repo and calling `pip`
 ```bash
-git clone [https://github.com/MarcelloBB/flowin.git](https://github.com/MarcelloBB/flowin.git)
+git clone https://github.com/MarcelloBB/flowin.git
 cd flowin
 pip install -e .
 ```
